@@ -53,8 +53,8 @@ var (
 	BUILD_ARCH string
 	CLOUD_GOX  string
 	COMMIT     string
-	LABEL      = `dev` //beta/alpha/stable
-	VERSION    = `3.6.5`
+	LABEL      = `stable` //beta/alpha/stable
+	VERSION    = `3.6.4-self-compile-xaxys`
 	PACKAGE    = `free`
 
 	schemaVer = version.DBSCHEMA //数据表结构版本
